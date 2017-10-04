@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>FlashSlideshowSettings</key>
+				<dict>
+					<key>FlickRSSEnabled</key>
+					<false/>
+					<key>ImageHeight</key>
+					<integer>320</integer>
+					<key>ImageScalingMode</key>
+					<integer>1</integer>
+					<key>ImageWidth</key>
+					<integer>460</integer>
+					<key>KenBurnsEffectSpeed</key>
+					<real>3</real>
+					<key>KenBurnsEffectType</key>
+					<integer>4</integer>
+					<key>ShowCaptions</key>
+					<false/>
+					<key>ShowControls</key>
+					<true/>
+					<key>ShowProgressIconWhileLoading</key>
+					<true/>
+					<key>TransitionPauseTime</key>
+					<real>3</real>
+					<key>TransitionSpeed</key>
+					<real>1</real>
+					<key>TransitionType</key>
+					<integer>14</integer>
+				</dict>
+				<key>HTMLSlideshowSettings</key>
+				<dict>
+					<key>CaptionsDisplayMode</key>
+					<integer>1</integer>
+					<key>EXIFTagsShown</key>
+					<array>
+						<string>ExposureTime</string>
+						<string>ISOSpeedRatings</string>
+						<string>ShutterSpeedValue</string>
+						<string>ApertureValue</string>
+						<string>MakerNote</string>
+						<string>UserComment</string>
+						<string>PixelXDimension</string>
+						<string>PixelYDimension</string>
+						<string>ImageUniqueID</string>
+					</array>
+					<key>ImageExportQuality</key>
+					<integer>1</integer>
+					<key>ImageExportScalingEnabled</key>
+					<true/>
+					<key>ImageExportScalingHeight</key>
+					<integer>6000</integer>
+					<key>ImageExportScalingWidth</key>
+					<integer>640</integer>
+					<key>ImageExportUsesHighQualityScaling</key>
+					<true/>
+					<key>NavigationHomeLinkText</key>
+					<string>Home</string>
+					<key>NavigationHomeLinkTextDerivedFromPageTitle</key>
+					<false/>
+					<key>NavigationNextLinkText</key>
+					<string>Next</string>
+					<key>NavigationPreviousLinkText</key>
+					<string>Previous</string>
+					<key>ShowEXIFTags</key>
+					<false/>
+					<key>ShowMissingEXIFTags</key>
+					<false/>
+					<key>ThumbnailScaleFactor</key>
+					<real>0.5625</real>
+					<key>ThumbnailsAreSquare</key>
+					<true/>
+				</dict>
+				<key>PhotoData</key>
+				<dict>
+					<key>CustomAlbum</key>
+					<dict>
+						<key>Description</key>
+						<string></string>
+						<key>Images</key>
+						<array>
+							<dict>
+								<key>UUID</key>
+								<string>C9276F5B-73F7-4FED-823F-99A72BCDC386</string>
+								<key>caption</key>
+								<string>SC Marriott1.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott1.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott1.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>734C79F0-3AFD-4B04-AC09-21A6A0F4E473</string>
+								<key>caption</key>
+								<string>SC Marriott10.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott10.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott10.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>630B3A0E-0C3C-44FE-A005-1DF0760F8F3F</string>
+								<key>caption</key>
+								<string>SC Marriott11.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott11.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott11.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>F734133C-C920-4694-AF35-BD005291BF65</string>
+								<key>caption</key>
+								<string>SC Marriott12.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott12.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott12.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>B398E0E8-0A02-4AD5-BF67-3140C550E587</string>
+								<key>caption</key>
+								<string>SC Marriott13.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott13.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott13.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>014FD3CE-FE2B-4377-8CDC-F33DCFAFFAFA</string>
+								<key>caption</key>
+								<string>SC Marriott14.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott14.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott14.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>45D649D0-1654-448F-8FDC-C05947C5997A</string>
+								<key>caption</key>
+								<string>SC Marriott2.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott2.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott2.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>1C5918E9-B55B-451D-9791-DC6FE3DE7E66</string>
+								<key>caption</key>
+								<string>SC Marriott3.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott3.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott3.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>C9E98167-B7F6-4D1C-8614-2166B1C02762</string>
+								<key>caption</key>
+								<string>SC Marriott4.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott4.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott4.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>8F072B75-F6F6-4C08-80C5-63DFECF69C80</string>
+								<key>caption</key>
+								<string>SC Marriott5.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott5.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott5.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>F2FB12E3-E75B-4F45-AFA4-A974314C16C0</string>
+								<key>caption</key>
+								<string>SC Marriott6.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott6.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott6.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>2919A6EC-27A9-452B-893C-84DFD9BF09F7</string>
+								<key>caption</key>
+								<string>SC Marriott7.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott7.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott7.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>5197A1EB-815E-461A-96AC-20FB269F7014</string>
+								<key>caption</key>
+								<string>SC Marriott8.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott8.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott8.jpg</string>
+							</dict>
+							<dict>
+								<key>UUID</key>
+								<string>BAED3F41-B6F0-4BA7-AA63-A1A303E2CFD5</string>
+								<key>caption</key>
+								<string>SC Marriott9.jpg</string>
+								<key>enabled</key>
+								<true/>
+								<key>filename</key>
+								<string>SC Marriott9.jpg</string>
+								<key>originalPath</key>
+								<string>/Users/hasan/Downloads/Hotels/usa/SC Marriott/SC Marriott9.jpg</string>
+							</dict>
+						</array>
+						<key>Name</key>
+						<string>SC Marriott</string>
+					</dict>
+				</dict>
+				<key>SlideshowMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>014FD3CE-FE2B-4377-8CDC-F33DCFAFFAFA</string>
+				<string>1C5918E9-B55B-451D-9791-DC6FE3DE7E66</string>
+				<string>2919A6EC-27A9-452B-893C-84DFD9BF09F7</string>
+				<string>45D649D0-1654-448F-8FDC-C05947C5997A</string>
+				<string>5197A1EB-815E-461A-96AC-20FB269F7014</string>
+				<string>630B3A0E-0C3C-44FE-A005-1DF0760F8F3F</string>
+				<string>734C79F0-3AFD-4B04-AC09-21A6A0F4E473</string>
+				<string>8F072B75-F6F6-4C08-80C5-63DFECF69C80</string>
+				<string>B398E0E8-0A02-4AD5-BF67-3140C550E587</string>
+				<string>BAED3F41-B6F0-4BA7-AA63-A1A303E2CFD5</string>
+				<string>C9276F5B-73F7-4FED-823F-99A72BCDC386</string>
+				<string>C9E98167-B7F6-4D1C-8614-2166B1C02762</string>
+				<string>F2FB12E3-E75B-4F45-AFA4-A974314C16C0</string>
+				<string>F734133C-C920-4694-AF35-BD005291BF65</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver Photo Album Data</string>
+</dict>
+</plist>

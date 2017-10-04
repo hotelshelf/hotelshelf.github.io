@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Affero</key>
+					<dict/>
+					<key>Allegro</key>
+					<dict/>
+					<key>Alpha</key>
+					<dict/>
+					<key>Avantgarde</key>
+					<dict/>
+					<key>Bravo</key>
+					<dict/>
+					<key>Caribou</key>
+					<dict/>
+					<key>Kiki</key>
+					<dict/>
+					<key>Lander</key>
+					<dict/>
+					<key>Manitoba</key>
+					<dict/>
+					<key>Offroad</key>
+					<dict>
+						<key>%colour_body_background%</key>
+						<string>#FFFFFF</string>
+						<key>%colour_navigation_desktop_dropdown_background%</key>
+						<string>#FFFFFF</string>
+						<key>%colour_navigation_desktop_text%</key>
+						<string>#000000</string>
+						<key>%colour_site_description%</key>
+						<string>#000000</string>
+						<key>%colour_site_title%</key>
+						<string>#000000</string>
+					</dict>
+					<key>Reason</key>
+					<dict/>
+					<key>Seasonal</key>
+					<dict/>
+					<key>Tesla</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string></string>
+				<key>OutputFormat</key>
+				<string>Default</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Allegro</key>
+					<array>
+						<string>Content Font Family.Helvetica</string>
+						<string>Content Font Size.12 px</string>
+						<string>Footer Font Family.Georgia</string>
+						<string>Headings Font Family.Helvetica</string>
+						<string>Sidebar.Right</string>
+						<string>Slogan Font Family.Helvetica</string>
+						<string>Slogan Font Style.Normal</string>
+						<string>Title Font Family.Helvetica</string>
+						<string>Title Font Style.Bold</string>
+						<string>Toolbar Font Family.Helvetica</string>
+					</array>
+					<key>Alpha</key>
+					<array>
+						<string>Sidebar.Right</string>
+						<string>Width.700px</string>
+					</array>
+					<key>Avantgarde</key>
+					<array>
+						<string>Font Style.San Serif</string>
+						<string>Menu Color.Orange</string>
+						<string>Sidebar.Right</string>
+						<string>Title Background and Blog Mark.Brown</string>
+						<string>Width.900 px</string>
+					</array>
+					<key>Baukraft</key>
+					<array>
+						<string>Breadcrumb position and visibility.top</string>
+						<string>Container Font Size.medium</string>
+						<string>Custom header image.Default</string>
+						<string>Font Style.Liberation Serif Regular</string>
+						<string>Footer Font Size.medium</string>
+						<string>Header Font Size.medium</string>
+						<string>Header image visibility.On</string>
+						<string>Sidebar Font Size.medium</string>
+						<string>Sidebar.Right</string>
+					</array>
+					<key>Bravo</key>
+					<array>
+						<string>Sidebar.Left</string>
+						<string>Width.750px</string>
+					</array>
+					<key>Business</key>
+					<array>
+						<string>Sidebar.Right</string>
+						<string>Styles.Blue</string>
+						<string>Width.Default Width (780px)</string>
+					</array>
+					<key>Caribou</key>
+					<array>
+						<string>Banner Design.Swirls</string>
+						<string>Icon Style.Black</string>
+						<string>Logo Position.Center</string>
+						<string>Sidebar Location.Right</string>
+					</array>
+					<key>Clean</key>
+					<array>
+						<string>Sidebar.Right</string>
+						<string>Styles.Red</string>
+					</array>
+					<key>Company</key>
+					<array>
+						<string>Sidebar.Right</string>
+						<string>Styles.Orange</string>
+					</array>
+					<key>Dark Dash Original</key>
+					<array>
+						<string>Sidebar.Right</string>
+					</array>
+					<key>Dark Glass</key>
+					<array>
+						<string>Sidebar.Right</string>
+					</array>
+					<key>Final</key>
+					<array>
+						<string>Background Style.Background Style Grey</string>
+						<string>Container Font Size.medium</string>
+						<string>Content font.Titillium</string>
+						<string>Footer Font Size.medium</string>
+						<string>Header Font Size.medium</string>
+						<string>Headers Font.Titillium</string>
+						<string>Navbar width.normal</string>
+						<string>Sidebar Font Size.medium</string>
+						<string>Sidebar position and visibility.Right</string>
+					</array>
+					<key>Kiki</key>
+					<array>
+						<string>Font Family.Joseph</string>
+						<string>Font Size.Normal</string>
+						<string>Sidebar.Hidden</string>
+						<string>Site Banner Overlay.Red overlay</string>
+						<string>Toggle Site Banner.Display Banner</string>
+					</array>
+					<key>Lander</key>
+					<array>
+						<string>[+] combo options.Back to Top Button</string>
+						<string>[+] combo options.Navigation: Uppercase</string>
+						<string>[+] combo options.Title and Slogan: Dark Shadow</string>
+						<string>Banner Image - Parallax.Inactive</string>
+						<string>Banner Image - Vertical masking.MaxHeight 400px</string>
+						<string>BreakPoint: Sidebar.  900 Pixel</string>
+						<string>Google WebFont: Classes + Titles.Off</string>
+						<string>Loading page - Effects.Default</string>
+						<string>Max Width.1000 Pixel</string>
+						<string>Navigation Colors.Navigation - Link</string>
+					</array>
+					<key>Magnesium</key>
+					<array>
+						<string>Sidebar.Right</string>
+						<string>Styles.Electric</string>
+						<string>Width.Default Width (780px)</string>
+					</array>
+					<key>Manitoba</key>
+					<array>
+						<string>Header Alignment.Inline</string>
+						<string>Icon Colour.Green</string>
+						<string>Sidebar.Right</string>
+						<string>Width.800px</string>
+					</array>
+					<key>Modern Grunge</key>
+					<array>
+						<string>Font Family.Sans Serif</string>
+						<string>Header Alignment.Left</string>
+						<string>Sidebar.Right</string>
+						<string>Styles.Blue</string>
+					</array>
+					<key>Offroad</key>
+					<array>
+						<string>Background overlay.Hidden</string>
+						<string>Background.Don’t use background image</string>
+						<string>Blur background on scroll.Blur</string>
+						<string>Desktop navigation.Main colour</string>
+						<string>Global colours.Main</string>
+						<string>Photo album.Show captions</string>
+						<string>Sidebar.Hidden</string>
+						<string>Site description.Visible</string>
+						<string>Site title.Show site title</string>
+					</array>
+					<key>School</key>
+					<array>
+						<string>Fonts.Comic Book</string>
+						<string>Header Alignment.Left</string>
+						<string>Objects.Chalk</string>
+						<string>Objects.Eraser</string>
+						<string>Objects.Ruler</string>
+						<string>Sidebar.Right</string>
+						<string>Styles.Blackboard &amp; Sill</string>
+					</array>
+					<key>Seasonal</key>
+					<array>
+						<string>Header Image.Roses</string>
+						<string>Icons.Pink</string>
+						<string>Sidebar.Right</string>
+						<string>Width.800px</string>
+					</array>
+					<key>Travel</key>
+					<array>
+						<string>Font Family.Sans Serif Family</string>
+						<string>Header.Zapfino, Brush Script Fonts</string>
+					</array>
+					<key>Urban</key>
+					<array>
+						<string>Header.Industrial Buildings</string>
+						<string>Sidebar.Right</string>
+					</array>
+					<key>Web Business</key>
+					<array>
+						<string>Sidebar.Right</string>
+						<string>Styles.Blue</string>
+					</array>
+					<key>iPhone</key>
+					<array>
+						<string>Width.600px</string>
+					</array>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>
